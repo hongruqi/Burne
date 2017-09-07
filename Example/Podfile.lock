@@ -1,0 +1,19 @@
+PODS:
+  - Aspects (1.4.1)
+  - Burne (0.1.0):
+    - Aspects
+
+DEPENDENCIES:
+  - Burne (from `../`)
+
+EXTERNAL SOURCES:
+  Burne:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  Burne: 909185c017465444c2d57c5ea24d34a65bd3d030
+
+PODFILE CHECKSUM: 3ba31517e226848437984bf44697ea909b6f1d53
+
+COCOAPODS: 1.3.1

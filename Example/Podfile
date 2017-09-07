@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WTPageRouter_Example' do
+  pod 'Burne', :path => '../'
+
+  target 'WTPageRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

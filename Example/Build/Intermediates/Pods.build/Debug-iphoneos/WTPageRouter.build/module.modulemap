@@ -1,0 +1,6 @@
+framework module WTPageRouter {
+  umbrella header "WTPageRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,147 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/Aspects/Aspects.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Aspects-Swift.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/Aspects/Aspects.framework/Headers/Aspects-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Aspects-umbrella.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Pods/Target Support Files/Aspects/Aspects-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Aspects.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Pods/Aspects/Aspects.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/Aspects/Aspects.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Intermediates/Pods.build/Debug-iphoneos/Aspects.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/Pods_WTPageRouter_Example.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-WTPageRouter_Example-umbrella.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Pods/Target Support Files/Pods-WTPageRouter_Example/Pods-WTPageRouter_Example-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_WTPageRouter_Example-Swift.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/Pods_WTPageRouter_Example.framework/Headers/Pods_WTPageRouter_Example-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/Pods_WTPageRouter_Example.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-WTPageRouter_Example.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/WTPageRouter/WTPageRouter.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UIViewController+PageResult.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/UIViewController+PageResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTControllerInvocation.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/Interceptor/WTControllerInvocation.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTNavigator.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTNavigator.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTNavigatorAspect.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTNavigatorAspect.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTNavigatorInterceptor.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/Interceptor/WTNavigatorInterceptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTNavigatorInterceptorManager.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/Interceptor/WTNavigatorInterceptorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageNavigator.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTPageNavigator.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageRegisterCenter.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTPageRegisterCenter.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageResultProtocol.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTPageResultProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageRouter-Swift.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/WTPageRouter/WTPageRouter.framework/Headers/WTPageRouter-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageRouter-umbrella.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Pods/Target Support Files/WTPageRouter/WTPageRouter-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageRouter.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTPageRouter.h"
+        },
+        {
+          'type': 'file',
+          'name': "WTPageSafeNavigation.h",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/WTPageRouter/Classes/WTPageSafeNavigation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Products/Debug-iphoneos/WTPageRouter/WTPageRouter.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hongruqi/Pods/WTPageRouter/Example/Build/Intermediates/Pods.build/Debug-iphoneos/WTPageRouter.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
